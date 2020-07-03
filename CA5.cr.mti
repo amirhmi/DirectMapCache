@@ -1,0 +1,44 @@
+{C:/Users/Asus/Desktop/4/Computer Architecture/CA5/Top.v} {1 {vlog -work work {C:/Users/Asus/Desktop/4/Computer Architecture/CA5/Top.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Top
+-- Compiling module TB
+
+Top level modules:
+	TB
+
+} {} {}} {C:/Users/Asus/Desktop/4/Computer Architecture/CA5/Datapath.v} {1 {vlog -work work {C:/Users/Asus/Desktop/4/Computer Architecture/CA5/Datapath.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Datapath
+
+Top level modules:
+	Datapath
+
+} {} {}} {C:/Users/Asus/Desktop/4/Computer Architecture/CA5/Counter.v} {1 {vlog -work work {C:/Users/Asus/Desktop/4/Computer Architecture/CA5/Counter.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Counter
+
+Top level modules:
+	Counter
+
+} {} {}} {C:/Users/Asus/Desktop/4/Computer Architecture/CA5/Controller.v} {1 {vlog -work work {C:\Users\Asus\Desktop\4\Computer Architecture\CA5\Controller.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Controller
+
+Top level modules:
+	Controller
+
+} {} {}} {C:/Users/Asus/Desktop/4/Computer Architecture/CA5/Cache.v} {1 {vlog -work work {C:/Users/Asus/Desktop/4/Computer Architecture/CA5/Cache.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Cache
+
+Top level modules:
+	Cache
+
+} {} {}} {C:/Users/Asus/Desktop/4/Computer Architecture/CA5/Memory.v} {1 {vlog -work work {C:/Users/Asus/Desktop/4/Computer Architecture/CA5/Memory.v}
+Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+-- Compiling module Memory
+
+Top level modules:
+	Memory
+
+} {} {}}
